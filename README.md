@@ -10,4 +10,4 @@ This project is just simple audio and visual effects. On pressing different keys
 ## Cloning
 To clone the project run `git clone https://github.com/suhailakhtar039/pratapProject.git` on your machine.
 ## Deployement
-This project is successfully deployed at https://serene-mountain-60774.herokuapp.com/index.html
+This project is successfully deployed at https://suhailakhtar039.github.io/pratapProject/
